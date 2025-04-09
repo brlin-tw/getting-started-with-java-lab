@@ -7,6 +7,17 @@ Documenting the process of doing [the "Getting Started with Java" tutorial](http
 
 \#java \#tutorial \#lab-projects
 
+## Errata
+
+The following are the problems in the tutorial I found while doing the lab:
+
+### In the "Compiling and Running Your First Java Program" section
+
+* Step 2.: /by typing the following./by typing the following command./
+* Step 2.: The given command should be `javac -version`, not `java -version`.
+* Step 2.: Subsequent paragraphs have wrong indentation.
+* Step 3.: Subsequent paragraphs have wrong indentation.
+
 ## Licensing
 
 Unless otherwise noted([comment headers](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml)), this product is licensed under [the MIT license](https://opensource.org/license/mit), or any of its more recent versions of your preference.
